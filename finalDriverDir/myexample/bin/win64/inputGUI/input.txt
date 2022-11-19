@@ -1,3 +1,0 @@
-0.307 0.100 0.300 0.313 0 0 0.080 0.090 0.010 0 0 0 0 1 0 0 0
-joy tou trg pos   rot     a b x y
-x y x y v b x y z w x y z b b b b

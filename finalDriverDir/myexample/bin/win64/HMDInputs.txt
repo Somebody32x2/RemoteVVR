@@ -1,3 +1,0 @@
-0.1 0.1 0.1 1 0 0 0
-pos  rot
-x y z w x y z
