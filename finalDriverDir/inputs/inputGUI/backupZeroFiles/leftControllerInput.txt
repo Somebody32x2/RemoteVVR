@@ -1,0 +1,4 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+touch joys  pos   rot     tri gri a b x y s
+x y c x y c x y z x y z w v c v f
+touchpadX touchpadY touchpadClick joystickX joystickY joystickClick posX posY posZ rotX rotY rotZ rotW triggerVal triggerPressed gripVal gripForce a b x y system

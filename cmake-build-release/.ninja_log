@@ -1,0 +1,11 @@
+# ninja log v5
+7	1104	6899292697303054	CMakeFiles/RemoteVVR.dir/OpenVrDriverExample/OpenVrDriverExample/src/DeviceFactory.cpp.obj	84a4d28418028ac1
+3	918	6899718954248437	CMakeFiles/RemoteVVR.dir/OpenVrDriverExample/OpenVrDriverExample/src/DeviceProvider.cpp.obj	6b496624fba858a4
+3	1077	6899702638593161	CMakeFiles/RemoteVVR.dir/OpenVrDriverExample/OpenVrDriverExample/src/HMDDriver.cpp.obj	2a511f48507fa62d
+2	1223	6899301601670706	CMakeFiles/RemoteVVR.dir/OpenVrDriverExample/OpenVrDriverExample/src/ControllerDriver.cpp.obj	10c990dd07024056
+918	1024	6899718955293617	../bin/libRemoteVVR.dll	2bea0588d1f28f0a
+918	1024	6899718955293617	../bin/libRemoteVVR.dll.a	2bea0588d1f28f0a
+2	168	6899834699363959	build.ninja	61ffabe9f4814e2e
+3	1096	6899834710575915	CMakeFiles/RemoteVVR.dir/OpenVrDriverExample/OpenVrDriverExample/src/DeviceProvider.cpp.obj	6b496624fba858a4
+1096	1202	6899834711596094	../bin/libRemoteVVR.dll	2bea0588d1f28f0a
+1096	1202	6899834711596094	../bin/libRemoteVVR.dll.a	2bea0588d1f28f0a

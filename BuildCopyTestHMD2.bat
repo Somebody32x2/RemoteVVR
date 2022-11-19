@@ -1,0 +1,2 @@
+copy HMDDriver\cmake-build-release-visual-studio\Release\driver_example.dll finalDriverDir\example\bin\win64\driver_example.dll /Y
+"C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrstartup.exe"

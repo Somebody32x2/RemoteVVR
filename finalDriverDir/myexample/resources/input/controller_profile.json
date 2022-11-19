@@ -1,0 +1,69 @@
+{
+  "jsonid": "input_profile",
+  "controller_type": "example_controller",
+  "legacy_binding" : "{example}/input/legacy_bindings_example.json",
+  "device_class" : "TrackedDeviceClass_Controller",
+  "resource_root": "example",
+  "driver_name": "example",
+  "input_bindingui_mode": "single_device",
+  "input_bindingui_right": {
+		"image": "{example}/icons/game_controller.svg"
+  },
+  "should_show_binding_errors": true,
+  "input_source": {
+    "/pose/raw": {
+      "type": "pose",
+      "description": "Raw Pose",
+      "default": [0, -1, 0, 1, 0, 0, 0]
+    },
+    "/input/joystick": {
+      "type": "joystick",
+      "click": false,
+      "touch": false,
+      "binding_image_point": [0,0]
+    },
+	"/input/trackpad" : { 
+        "type" : "trackpad",
+        "binding_image_point" : [ 0, 0 ],
+        "force" : false,
+        "click" : false,
+        "touch" : false
+    },
+    "/input/trigger": {
+      "type": "trigger",
+      "binding_image_point": [0,0],
+      "click": true,
+      "touch": false
+    },
+    "/input/a": {
+      "type": "button",
+      "binding_image_point": [0,0],
+      "click": true,
+      "touch": false
+    },
+    "/input/b": {
+      "type": "button",
+      "binding_image_point": [0,0],
+      "click": true,
+      "touch": false
+    },
+    "/input/x": {
+      "type": "button",
+      "binding_image_point": [0,0],
+      "click": true,
+      "touch": false
+    },
+    "/input/y": {
+      "type": "button",
+      "binding_image_point": [0,0],
+      "click": true,
+      "touch": false
+    },
+    "/input/system": {
+      "type": "button",
+      "binding_image_point": [0,0],
+      "click": true,
+      "touch": false
+    }
+  }
+}
