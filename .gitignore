@@ -20,3 +20,7 @@ _deps
 /HMDDriver/cmake-build-release-visual-studio/
 /HMDDriver/libraries/linalg/samples/
 /HMDDriver/libraries/openvr/samples/
+/finalDriverDir/myexample/
+/finalDriverDir/refexample/
+/finalDriverDir/inputs/inputGUI/node_modules/
+/finalDriverDir/inputs/inputGUI/.idea/
