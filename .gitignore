@@ -24,6 +24,7 @@ _deps
 /finalDriverDir/refexample/
 /finalDriverDir/inputs/inputGUI/node_modules/
 /finalDriverDir/inputs/inputGUI/.idea/
+/finalDriverDir/inputs/inputGUI/node.exe
 
 #q: how to remove all files now in .gitignore?
 #a: git rm -r --cached .
