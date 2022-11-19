@@ -18,3 +18,5 @@ _deps
 /HMDDriver/.idea/
 /HMDDriver/cmake-build-debug/
 /HMDDriver/cmake-build-release-visual-studio/
+/HMDDriver/libraries/linalg/samples/
+/HMDDriver/libraries/openvr/samples/
